@@ -13,10 +13,10 @@ Assignment 3 is all about creating this natural language query system.  In order
 
 
 4. What is chatbot would you create that would be like this?  Describe why you would create it and what it would do.
-
+A chatbot that I would create that is similar to this is 
 
 5. What was the most difficult portion of this assignment?
-
+The hardest part of this assignment was 
 
 6. Did you write a new assert for your pattern action?
 
