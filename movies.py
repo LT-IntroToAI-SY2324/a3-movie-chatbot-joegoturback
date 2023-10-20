@@ -38,6 +38,18 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],
     ),
     (
+        "titanic"
+        "james cameron",
+        1997,
+        [
+            "kate winslet",
+            "leonardo dicaprio",
+            "billy zane",
+            "gloria stuart",
+            "bernard hill"
+        ]
+    )
+    (
         "boyz n the hood",
         "john singleton",
         1991,

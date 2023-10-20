@@ -185,6 +185,9 @@ def year_by_title(matches: List[str]) -> List[int]:
     Returns:
         a list of one item (an int), the year that the movie was made
     """
+    results = []
+    results.append(get_year(matches[0]))
+    return results
     pass
 
 
@@ -197,6 +200,8 @@ def title_by_actor(matches: List[str]) -> List[str]:
     Returns:
         a list of movie titles that the actor acted in
     """
+    results =[]
+    
     pass
 
 
